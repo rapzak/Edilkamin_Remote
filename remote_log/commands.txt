@@ -1,0 +1,12 @@
+sigrok-cli -d fx2lafw -c samplerate=12000000 --samples 50000000 -P spi:clk=D5:miso=D3:mosi=D2:cs=D1,edil_rem -A edil_rem
+
+
+
+
+
+
+
+sigrok-cli -d fx2lafw -c samplerate=12m --channels D0,D1,D2,D3,D4,D5 -o C:\LOG\capture.raw -O binary --samples 36000000
+sigrok-cli -i C:\LOG\capture.raw -I binary:samplerate=12m --channels 0,1,2,3,4,5   -P spi:clk=5:miso=3:mosi=2:cs=1,edil_rem -A edil_rem
+
+sigrok-cli -P edil_rem

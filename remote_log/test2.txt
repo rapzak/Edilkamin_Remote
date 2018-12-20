@@ -1,0 +1,506 @@
+56934-57704 edil_rem: Parsed Data: RX:
+56934-57704 edil_rem: Parsed Data Byte: RX:00 ff 01 80 15 c0 41 
+771067-771811 edil_rem: Parsed Data: TX:4
+771067-771811 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 bf 81 
+846177-847996 edil_rem: Parsed Data: RX:Mainten.        
+846177-847996 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+1561475-1562219 edil_rem: Parsed Data: TX:4
+1561475-1562219 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 be 81 
+1636549-1637319 edil_rem: Parsed Data: RX:
+1636549-1637319 edil_rem: Parsed Data Byte: RX:00 ff 01 80 15 be 41 
+2350700-2351444 edil_rem: Parsed Data: TX:4
+2350700-2351444 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 be 81 
+2425863-2427548 edil_rem: Parsed Data: RX:Mainten.        
+2425863-2427548 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+3140866-3141610 edil_rem: Parsed Data: TX:4
+3140866-3141610 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 bd 81 
+3215966-3216737 edil_rem: Parsed Data: RX:
+3215966-3216737 edil_rem: Parsed Data Byte: RX:00 ff 01 80 15 bd 41 
+3930055-3930799 edil_rem: Parsed Data: TX:4
+3930055-3930799 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 bc 81 
+4023205-4025024 edil_rem: Parsed Data: RX:Mainten.        
+4023205-4025024 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+4720293-4721037 edil_rem: Parsed Data: TX:4
+4720293-4721037 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 bc 81 
+4813532-4814249 edil_rem: Parsed Data: RX:
+4813532-4814249 edil_rem: Parsed Data Byte: RX:00 ff 01 80 15 bc 41 
+5509473-5510217 edil_rem: Parsed Data: TX:4
+5509473-5510217 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 bb 81 
+5584565-5586384 edil_rem: Parsed Data: RX:Mainten.        
+5584565-5586384 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+6299711-6300455 edil_rem: Parsed Data: TX:4
+6299711-6300455 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 ba 81 
+6374838-6375609 edil_rem: Parsed Data: RX:
+6374838-6375609 edil_rem: Parsed Data Byte: RX:00 ff 01 80 15 ba 41 
+7088945-7089689 edil_rem: Parsed Data: TX:4
+7088945-7089689 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 ba 81 
+7164063-7165883 edil_rem: Parsed Data: RX:Mainten.        
+7164063-7165883 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+7879264-7880008 edil_rem: Parsed Data: TX:4
+7879264-7880008 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 b9 81 
+7954319-7955090 edil_rem: Parsed Data: RX:
+7954319-7955090 edil_rem: Parsed Data Byte: RX:00 ff 01 80 15 b9 41 
+8668480-8669224 edil_rem: Parsed Data: TX:4
+8668480-8669224 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 b8 81 
+8761683-8763502 edil_rem: Parsed Data: RX:Mainten.        
+8761683-8763502 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+9459623-9460367 edil_rem: Parsed Data: TX:4
+9459623-9460367 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 b8 81 
+9534651-9535422 edil_rem: Parsed Data: RX:
+9534651-9535422 edil_rem: Parsed Data Byte: RX:00 ff 01 80 14 b8 41 
+10248812-10249556 edil_rem: Parsed Data: TX:4
+10248812-10249556 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 b7 81 
+10323957-10325875 edil_rem: Parsed Data: RX:Mainten.        
+10323957-10325875 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+11039283-11040027 edil_rem: Parsed Data: TX:4
+11039283-11040027 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 b6 81 
+11114410-11115217 edil_rem: Parsed Data: RX:
+11114410-11115217 edil_rem: Parsed Data Byte: RX:00 ff 01 80 15 b6 41 
+11828401-11829145 edil_rem: Parsed Data: TX:4
+11828401-11829145 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 b6 81 
+11921568-11923253 edil_rem: Parsed Data: RX:Mainten.        
+11921568-11923253 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+12618522-12619266 edil_rem: Parsed Data: TX:4
+12618522-12619266 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 b5 81 
+12693811-12694582 edil_rem: Parsed Data: RX:
+12693811-12694582 edil_rem: Parsed Data Byte: RX:00 ff 01 80 14 b5 41 
+13407828-13408572 edil_rem: Parsed Data: TX:4
+13407828-13408572 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 b4 81 
+13482884-13484694 edil_rem: Parsed Data: RX:Mainten.        
+13482884-13484694 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+14197833-14198577 edil_rem: Parsed Data: TX:4
+14197833-14198577 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 b4 81 
+14273131-14273848 edil_rem: Parsed Data: RX:
+14273131-14273848 edil_rem: Parsed Data Byte: RX:00 ff 01 80 15 b4 41 
+14987130-14987874 edil_rem: Parsed Data: TX:4
+14987130-14987874 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 b3 81 
+15080405-15082090 edil_rem: Parsed Data: RX:Mainten.        
+15080405-15082090 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+15777306-15778050 edil_rem: Parsed Data: TX:4
+15777306-15778050 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 b2 81 
+15852469-15853240 edil_rem: Parsed Data: RX:
+15852469-15853240 edil_rem: Parsed Data Byte: RX:00 ff 01 80 15 b2 41 
+16566540-16567284 edil_rem: Parsed Data: TX:4
+16566540-16567284 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 b2 81 
+16641811-16643630 edil_rem: Parsed Data: RX:Mainten.        
+16641811-16643630 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+17356877-17357621 edil_rem: Parsed Data: TX:4
+17356877-17357621 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 b1 81 
+17432067-17432838 edil_rem: Parsed Data: RX:
+17432067-17432838 edil_rem: Parsed Data Byte: RX:00 ff 01 80 14 b1 41 
+18146004-18146748 edil_rem: Parsed Data: TX:4
+18146004-18146748 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 b1 81 
+18221328-18223013 edil_rem: Parsed Data: RX:Mainten.        
+18221328-18223013 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+18936107-18936851 edil_rem: Parsed Data: TX:4
+18936107-18936851 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 b0 81 
+19011396-19012167 edil_rem: Parsed Data: RX:
+19011396-19012167 edil_rem: Parsed Data Byte: RX:00 ff 01 80 15 b0 41 
+19725413-19726157 edil_rem: Parsed Data: TX:4
+19725413-19726157 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 af 81 
+19818581-19820266 edil_rem: Parsed Data: RX:  25.4&C        
+19818581-19820266 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 34 26 43 20 20 20 20 20 20 20 20 
+20520204-20520948 edil_rem: Parsed Data: TX:4
+20520204-20520948 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 af 81 
+20595878-20596649 edil_rem: Parsed Data: RX:
+20595878-20596649 edil_rem: Parsed Data Byte: RX:00 ff 01 80 15 af 41 
+21314565-21315309 edil_rem: Parsed Data: TX:4
+21314565-21315309 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 af 81 
+21390319-21392139 edil_rem: Parsed Data: RX:  25.4&C  01:26 
+21390319-21392139 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 34 26 43 20 20 30 31 3a 32 36 20 
+22110180-22110924 edil_rem: Parsed Data: TX:4
+22110180-22110924 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 ae 81 
+22185702-22186472 edil_rem: Parsed Data: RX:
+22185702-22186472 edil_rem: Parsed Data Byte: RX:00 ff 01 80 14 ae 41 
+22904379-22905123 edil_rem: Parsed Data: TX:4
+22904379-22905123 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 ae 81 
+22980214-22982034 edil_rem: Parsed Data: RX:  25.4&C  01:26 
+22980214-22982034 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 34 26 43 20 20 30 31 3a 32 36 20 
+23700048-23700792 edil_rem: Parsed Data: TX:4
+23700048-23700792 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 ad 81 
+23775561-23776332 edil_rem: Parsed Data: RX:
+23775561-23776332 edil_rem: Parsed Data Byte: RX:00 ff 01 80 14 ad 41 
+24494310-24495054 edil_rem: Parsed Data: TX:4
+24494310-24495054 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 ac 81 
+24588132-24589817 edil_rem: Parsed Data: RX:  25.4&C  01:26 
+24588132-24589817 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 34 26 43 20 20 30 31 3a 32 36 20 
+25289657-25290400 edil_rem: Parsed Data: TX:4
+25289657-25290400 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 ac 81 
+25365330-25366101 edil_rem: Parsed Data: RX:
+25365330-25366101 edil_rem: Parsed Data Byte: RX:00 ff 01 80 15 ac 41 
+26084044-26084788 edil_rem: Parsed Data: TX:4
+26084044-26084788 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 ac 81 
+26159584-26161403 edil_rem: Parsed Data: RX:  25.4&C  01:26 
+26159584-26161403 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 34 26 43 20 20 30 31 3a 32 36 20 
+26879534-26880278 edil_rem: Parsed Data: TX:4
+26879534-26880278 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 ab 81 
+26955154-26955925 edil_rem: Parsed Data: RX:
+26955154-26955925 edil_rem: Parsed Data Byte: RX:00 ff 01 80 15 ab 41 
+27675140-27675884 edil_rem: Parsed Data: TX:4
+27675140-27675884 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 ab 81 
+27750823-27752759 edil_rem: Parsed Data: RX:  25.4&C  01:26 
+27750823-27752759 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 34 26 43 20 20 30 31 3a 32 36 20 
+28470755-28471499 edil_rem: Parsed Data: TX:4
+28470755-28471499 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 aa 81 
+28546295-28547012 edil_rem: Parsed Data: RX:
+28546295-28547012 edil_rem: Parsed Data Byte: RX:00 ff 01 80 15 aa 41 
+29265053-29265797 edil_rem: Parsed Data: TX:4
+29265053-29265797 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 a9 81 
+29358857-29360676 edil_rem: Parsed Data: RX:  25.4&C  01:26 
+29358857-29360676 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 34 26 43 20 20 30 31 3a 32 36 20 
+30060346-30061224 edil_rem: Parsed Data: TX:4
+30060346-30061224 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 a9 81 
+30136145-30136862 edil_rem: Parsed Data: RX:
+30136145-30136862 edil_rem: Parsed Data Byte: RX:00 ff 01 80 15 a9 41 
+30854823-30855567 edil_rem: Parsed Data: TX:4
+30854823-30855567 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 a9 81 
+30930380-30932200 edil_rem: Parsed Data: RX:  25.4&C  01:26 
+30930380-30932200 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 34 26 43 20 20 30 31 3a 32 36 20 
+31650187-31650931 edil_rem: Parsed Data: TX:4
+31650187-31650931 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 a8 81 
+31725933-31726650 edil_rem: Parsed Data: RX:
+31725933-31726650 edil_rem: Parsed Data Byte: RX:00 ff 01 80 14 a7 41 
+32444521-32445265 edil_rem: Parsed Data: TX:4
+32444521-32445265 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 a7 81 
+32520204-32522023 edil_rem: Parsed Data: RX:  Kg 00   01:26 
+32520204-32522023 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 31 3a 32 36 20 
+33239240-33239984 edil_rem: Parsed Data: TX:4
+33239240-33239984 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 a6 81 
+33314833-33315604 edil_rem: Parsed Data: RX:
+33314833-33315604 edil_rem: Parsed Data Byte: RX:00 ff 01 80 14 a6 41 
+34032776-34033520 edil_rem: Parsed Data: TX:4
+34032776-34033520 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 a5 81 
+34108316-34110001 edil_rem: Parsed Data: RX:  Kg 00   01:26 
+34108316-34110001 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 31 3a 32 36 20 
+34827173-34827917 edil_rem: Parsed Data: TX:4
+34827173-34827917 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 a5 81 
+34902614-34903384 edil_rem: Parsed Data: RX:
+34902614-34903384 edil_rem: Parsed Data Byte: RX:00 ff 01 80 15 a5 41 
+35620646-35621390 edil_rem: Parsed Data: TX:4
+35620646-35621390 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 a4 81 
+35696302-35698120 edil_rem: Parsed Data: RX:  Kg 00   01:26 
+35696302-35698120 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 31 3a 32 36 20 
+36415339-36416082 edil_rem: Parsed Data: TX:4
+36415339-36416082 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 a3 81 
+36490896-36491613 edil_rem: Parsed Data: RX:
+36490896-36491613 edil_rem: Parsed Data Byte: RX:00 ff 01 80 14 a3 41 
+37208803-37209547 edil_rem: Parsed Data: TX:4
+37208803-37209547 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 a3 81 
+37284235-37286189 edil_rem: Parsed Data: RX:  Kg 00   01:26 
+37284235-37286189 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 31 3a 32 36 20 
+38003460-38004203 edil_rem: Parsed Data: TX:4
+38003460-38004203 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 a2 81 
+38078963-38079734 edil_rem: Parsed Data: RX:
+38078963-38079734 edil_rem: Parsed Data Byte: RX:00 ff 01 80 15 a2 41 
+38796987-38797731 edil_rem: Parsed Data: TX:4
+38796987-38797731 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 a1 81 
+38872437-38874256 edil_rem: Parsed Data: RX:  Kg 00   01:26 
+38872437-38874256 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 31 3a 32 36 20 
+39591491-39592235 edil_rem: Parsed Data: TX:4
+39591491-39592235 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 a1 81 
+39667066-39667783 edil_rem: Parsed Data: RX:
+39667066-39667783 edil_rem: Parsed Data Byte: RX:00 ff 01 80 15 a1 41 
+40384991-40385735 edil_rem: Parsed Data: TX:4
+40384991-40385735 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 a0 81 
+40460549-40462368 edil_rem: Parsed Data: RX:  Kg 00   01:26 
+40460549-40462368 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 31 3a 32 36 20 
+41179648-41180392 edil_rem: Parsed Data: TX:4
+41179648-41180392 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 9f 81 
+41255143-41255913 edil_rem: Parsed Data: RX:
+41255143-41255913 edil_rem: Parsed Data Byte: RX:00 ff 01 80 14 9f 41 
+41973068-41973812 edil_rem: Parsed Data: TX:4
+41973068-41973812 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 9f 81 
+42048625-42050310 edil_rem: Parsed Data: RX:  Kg 00   01:26 
+42048625-42050310 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 31 3a 32 36 20 
+42767518-42768262 edil_rem: Parsed Data: TX:4
+42767518-42768262 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 9e 81 
+42842995-42843712 edil_rem: Parsed Data: RX:
+42842995-42843712 edil_rem: Parsed Data Byte: RX:00 ff 01 80 14 9e 41 
+43560929-43561673 edil_rem: Parsed Data: TX:4
+43560929-43561673 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 9d 81 
+43654634-43656319 edil_rem: Parsed Data: RX:  Kg 00   01:26 
+43654634-43656319 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 31 3a 32 36 20 
+44355415-44356159 edil_rem: Parsed Data: TX:4
+44355415-44356159 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 9d 81 
+44430856-44431627 edil_rem: Parsed Data: RX:
+44430856-44431627 edil_rem: Parsed Data Byte: RX:00 ff 01 80 14 9d 41 
+45148853-45149597 edil_rem: Parsed Data: TX:4
+45148853-45149597 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 9c 81 
+45242621-45244440 edil_rem: Parsed Data: RX:Mainten.        
+45242621-45244440 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+45940597-45941341 edil_rem: Parsed Data: TX:4
+45940597-45941341 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 9b 81 
+46015697-46016468 edil_rem: Parsed Data: RX:
+46015697-46016468 edil_rem: Parsed Data Byte: RX:00 ff 01 80 14 9b 41 
+46729850-46730592 edil_rem: Parsed Data: TX:4
+46729850-46730592 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 9b 81 
+46804986-46806778 edil_rem: Parsed Data: RX:Mainten.        
+46804986-46806778 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+47520106-47520850 edil_rem: Parsed Data: TX:4
+47520106-47520850 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 9a 81 
+47595278-47596183 edil_rem: Parsed Data: RX:
+47595278-47596183 edil_rem: Parsed Data Byte: RX:00 ff 01 80 14 9a 41 
+48309493-48310237 edil_rem: Parsed Data: TX:4
+48309493-48310237 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 99 81 
+48384540-48386431 edil_rem: Parsed Data: RX:Mainten.        
+48384540-48386431 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+49099606-49100350 edil_rem: Parsed Data: TX:4
+49099606-49100350 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 99 81 
+49174778-49175647 edil_rem: Parsed Data: RX:
+49174778-49175647 edil_rem: Parsed Data Byte: RX:00 ff 01 80 15 99 41 
+49888832-49889576 edil_rem: Parsed Data: TX:4
+49888832-49889576 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 98 81 
+49982053-49983872 edil_rem: Parsed Data: RX:Mainten.        
+49982053-49983872 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+50679106-50679850 edil_rem: Parsed Data: TX:4
+50679106-50679850 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 97 81 
+50754323-50755040 edil_rem: Parsed Data: RX:
+50754323-50755040 edil_rem: Parsed Data Byte: RX:00 ff 01 80 15 97 41 
+51468206-51468950 edil_rem: Parsed Data: TX:4
+51468206-51468950 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 97 81 
+51543513-51545198 edil_rem: Parsed Data: RX:Mainten.        
+51543513-51545198 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+52258507-52259251 edil_rem: Parsed Data: TX:4
+52258507-52259251 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 96 81 
+52333742-52334459 edil_rem: Parsed Data: RX:
+52333742-52334459 edil_rem: Parsed Data Byte: RX:00 ff 01 80 14 96 41 
+53047670-53048414 edil_rem: Parsed Data: TX:4
+53047670-53048414 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 95 81 
+53122977-53124796 edil_rem: Parsed Data: RX:Mainten.        
+53122977-53124796 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+53837882-53838626 edil_rem: Parsed Data: TX:4
+53837882-53838626 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 95 81 
+53913063-53913834 edil_rem: Parsed Data: RX:
+53913063-53913834 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 95 41 
+54627090-54627834 edil_rem: Parsed Data: TX:4
+54627090-54627834 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 94 81 
+54702370-54704189 edil_rem: Parsed Data: RX:Mainten.        
+54702370-54704189 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+55417427-55418171 edil_rem: Parsed Data: TX:4
+55417427-55418171 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 93 81 
+55492707-55493477 edil_rem: Parsed Data: RX:
+55492707-55493477 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 93 41 
+56206581-56207325 edil_rem: Parsed Data: TX:4
+56206581-56207325 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 93 81 
+56281771-56283590 edil_rem: Parsed Data: RX:Mainten.        
+56281771-56283590 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+56996945-56997823 edil_rem: Parsed Data: TX:4
+56996945-56997823 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 92 81 
+57072225-57072942 edil_rem: Parsed Data: RX:
+57072225-57072942 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 92 41 
+57786207-57787049 edil_rem: Parsed Data: TX:4
+57786207-57787049 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 91 81 
+57879419-57881238 edil_rem: Parsed Data: RX:Mainten.        
+57879419-57881238 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+58576535-58577279 edil_rem: Parsed Data: TX:4
+58576535-58577279 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 91 81 
+58651644-58652361 edil_rem: Parsed Data: RX:
+58651644-58652361 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 91 41 
+59365662-59366468 edil_rem: Parsed Data: TX:4
+59365662-59366468 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 90 81 
+59440879-59442698 edil_rem: Parsed Data: RX:Mainten.        
+59440879-59442698 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+60156124-60156868 edil_rem: Parsed Data: TX:4
+60156124-60156868 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 8f 81 
+60231180-60231951 edil_rem: Parsed Data: RX:
+60231180-60231951 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 8f 41 
+60945368-60946112 edil_rem: Parsed Data: TX:4
+60945368-60946112 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 8f 81 
+61020495-61022315 edil_rem: Parsed Data: RX:Mainten.        
+61020495-61022315 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+61735768-61736512 edil_rem: Parsed Data: TX:4
+61735768-61736512 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 8e 81 
+61810824-61811539 edil_rem: Parsed Data: RX:
+61810824-61811539 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 8e 41 
+62525021-62525763 edil_rem: Parsed Data: TX:4
+62525021-62525763 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 8d 81 
+62600157-62601976 edil_rem: Parsed Data: RX:Mainten.        
+62600157-62601976 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+63315358-63316102 edil_rem: Parsed Data: TX:4
+63315358-63316102 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 8d 81 
+63390512-63391283 edil_rem: Parsed Data: RX:
+63390512-63391283 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 8d 41 
+64106044-64106788 edil_rem: Parsed Data: TX:4
+64106044-64106788 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 8c 81 
+64181109-64182794 edil_rem: Parsed Data: RX:Mainten.        
+64181109-64182794 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+64896122-64896865 edil_rem: Parsed Data: TX:4
+64896122-64896865 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 8b 81 
+64971240-64972011 edil_rem: Parsed Data: RX:
+64971240-64972011 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 8b 41 
+65685320-65686064 edil_rem: Parsed Data: TX:4
+65685320-65686064 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 8b 81 
+65760385-65762204 edil_rem: Parsed Data: RX:Mainten.        
+65760385-65762204 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+66475541-66476285 edil_rem: Parsed Data: TX:4
+66475541-66476285 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 8a 81 
+66550668-66551439 edil_rem: Parsed Data: RX:
+66550668-66551439 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 8a 41 
+67264794-67265538 edil_rem: Parsed Data: TX:4
+67264794-67265538 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 89 81 
+67339966-67341785 edil_rem: Parsed Data: RX:Mainten.        
+67339966-67341785 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+68055104-68055848 edil_rem: Parsed Data: TX:4
+68055104-68055848 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 89 81 
+68130177-68130894 edil_rem: Parsed Data: RX:
+68130177-68130894 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 89 41 
+68844231-68844975 edil_rem: Parsed Data: TX:4
+68844231-68844975 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 88 81 
+68919367-68921052 edil_rem: Parsed Data: RX:  25.4&C  01:26 
+68919367-68921052 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 34 26 43 20 20 30 31 3a 32 36 20 
+69638915-69639659 edil_rem: Parsed Data: TX:4
+69638915-69639659 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 87 81 
+69714607-69715324 edil_rem: Parsed Data: RX:
+69714607-69715324 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 87 41 
+70433267-70434010 edil_rem: Parsed Data: TX:4
+70433267-70434010 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 87 81 
+70508806-70510625 edil_rem: Parsed Data: RX:  25.4&C  01:26 
+70508806-70510625 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 34 26 43 20 20 30 31 3a 32 36 20 
+71228739-71229483 edil_rem: Parsed Data: TX:4
+71228739-71229483 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 86 81 
+71304475-71305246 edil_rem: Parsed Data: RX:
+71304475-71305246 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 86 41 
+72023252-72023996 edil_rem: Parsed Data: TX:4
+72023252-72023996 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 85 81 
+72098764-72100584 edil_rem: Parsed Data: RX:  25.4&C  01:26 
+72098764-72100584 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 34 26 43 20 20 30 31 3a 32 36 20 
+72818545-72819289 edil_rem: Parsed Data: TX:4
+72818545-72819289 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 85 81 
+72894201-72894918 edil_rem: Parsed Data: RX:
+72894201-72894918 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 85 41 
+73612950-73613694 edil_rem: Parsed Data: TX:4
+73612950-73613694 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 84 81 
+73706638-73708547 edil_rem: Parsed Data: RX:  25.4&C  01:26 
+73706638-73708547 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 34 26 43 20 20 30 31 3a 32 36 20 
+74408315-74409059 edil_rem: Parsed Data: TX:4
+74408315-74409059 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 83 81 
+74483855-74484715 edil_rem: Parsed Data: RX:
+74483855-74484715 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 83 41 
+75202685-75203429 edil_rem: Parsed Data: TX:4
+75202685-75203429 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 83 81 
+75278269-75279954 edil_rem: Parsed Data: RX:  25.4&C  01:26 
+75278269-75279954 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 34 26 43 20 20 30 31 3a 32 36 20 
+75998032-75998775 edil_rem: Parsed Data: TX:4
+75998032-75998775 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 82 81 
+76073652-76074421 edil_rem: Parsed Data: RX:
+76073652-76074421 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 82 41 
+76792366-76793217 edil_rem: Parsed Data: TX:4
+76792366-76793217 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 81 81 
+76867986-76869671 edil_rem: Parsed Data: RX:  25.4&C  01:26 
+76867986-76869671 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 34 26 43 20 20 30 31 3a 32 36 20 
+77587569-77588313 edil_rem: Parsed Data: TX:4
+77587569-77588313 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 81 81 
+77663198-77663969 edil_rem: Parsed Data: RX:
+77663198-77663969 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 81 41 
+78381948-78382691 edil_rem: Parsed Data: TX:4
+78381948-78382691 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 80 81 
+78457693-78459378 edil_rem: Parsed Data: RX:  25.4&C  01:26 
+78457693-78459378 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 34 26 43 20 20 30 31 3a 32 36 20 
+79177473-79178217 edil_rem: Parsed Data: TX:4
+79177473-79178217 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 7f 81 
+79252977-79253748 edil_rem: Parsed Data: RX:
+79252977-79253748 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 7f 41 
+79971619-79972363 edil_rem: Parsed Data: TX:4
+79971619-79972363 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 7f 81 
+80047383-80049202 edil_rem: Parsed Data: RX:  Kg 00   01:26 
+80047383-80049202 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 31 3a 32 36 20 
+80766419-80767163 edil_rem: Parsed Data: TX:4
+80766419-80767163 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 7e 81 
+80841976-80842693 edil_rem: Parsed Data: RX:
+80841976-80842693 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 7e 41 
+81559937-81560681 edil_rem: Parsed Data: TX:4
+81559937-81560681 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 7d 81 
+81653598-81655417 edil_rem: Parsed Data: RX:  Kg 00   01:26 
+81653598-81655417 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 31 3a 32 36 20 
+82354397-82355248 edil_rem: Parsed Data: TX:4
+82354397-82355248 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 7d 81 
+82430026-82430797 edil_rem: Parsed Data: RX:
+82430026-82430797 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 7d 41 
+83148964-83149708 edil_rem: Parsed Data: TX:4
+83148964-83149708 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 7c 81 
+83242705-83244524 edil_rem: Parsed Data: RX:  Kg 00   01:26 
+83242705-83244524 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 31 3a 32 36 20 
+83943468-83944212 edil_rem: Parsed Data: TX:4
+83943468-83944212 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 7c 81 
+84019205-84019976 edil_rem: Parsed Data: RX:
+84019205-84019976 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 7c 41 
+84737175-84737919 edil_rem: Parsed Data: TX:4
+84737175-84737919 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 7c 81 
+84812678-84814498 edil_rem: Parsed Data: RX:  Kg 00   01:26 
+84812678-84814498 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 31 3a 32 36 20 
+85531778-85532522 edil_rem: Parsed Data: TX:4
+85531778-85532522 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 7b 81 
+85607245-85607962 edil_rem: Parsed Data: RX:
+85607245-85607962 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 7a 41 
+86325171-86325914 edil_rem: Parsed Data: TX:4
+86325171-86325914 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 7a 81 
+86400880-86402700 edil_rem: Parsed Data: RX:  Kg 00   01:26 
+86400880-86402700 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 31 3a 32 36 20 
+87119872-87120616 edil_rem: Parsed Data: TX:4
+87119872-87120616 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 79 81 
+87195420-87196191 edil_rem: Parsed Data: RX:
+87195420-87196191 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 79 41 
+87913498-87914242 edil_rem: Parsed Data: TX:4
+87913498-87914242 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 78 81 
+87989064-87990884 edil_rem: Parsed Data: RX:  Kg 00   01:26 
+87989064-87990884 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 31 3a 32 36 20 
+88708020-88708764 edil_rem: Parsed Data: TX:4
+88708020-88708764 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 78 81 
+88783604-88784321 edil_rem: Parsed Data: RX:
+88783604-88784321 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 78 41 
+89501539-89502281 edil_rem: Parsed Data: TX:4
+89501539-89502281 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 78 81 
+89577069-89578888 edil_rem: Parsed Data: RX:  Kg 00   01:26 
+89577069-89578888 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 31 3a 32 36 20 
+90296168-90296912 edil_rem: Parsed Data: TX:4
+90296168-90296912 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 77 81 
+90371735-90372504 edil_rem: Parsed Data: RX:
+90371735-90372504 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 77 41 
+91089705-91090449 edil_rem: Parsed Data: TX:4
+91089705-91090449 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 77 81 
+91165289-91167108 edil_rem: Parsed Data: RX:  Kg 00   01:26 
+91165289-91167108 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 31 3a 32 36 20 
+91884308-91885051 edil_rem: Parsed Data: TX:4
+91884308-91885051 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 76 81 
+91959972-91960743 edil_rem: Parsed Data: RX:
+91959972-91960743 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 76 41 
+92678041-92678785 edil_rem: Parsed Data: TX:4
+92678041-92678785 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 75 81 
+92771567-92773449 edil_rem: Parsed Data: RX:Mainten.        
+92771567-92773449 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+93468710-93469454 edil_rem: Parsed Data: TX:4
+93468710-93469454 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 75 81 
+93543936-93544706 edil_rem: Parsed Data: RX:
+93543936-93544706 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 75 41 
+94258097-94258841 edil_rem: Parsed Data: TX:4
+94258097-94258841 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 75 81 
+94333188-94335008 edil_rem: Parsed Data: RX:Mainten.        
+94333188-94335008 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+95048524-95049267 edil_rem: Parsed Data: TX:4
+95048524-95049267 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 74 81 
+95123678-95124448 edil_rem: Parsed Data: RX:
+95123678-95124448 edil_rem: Parsed Data Byte: RX:00 ff 01 80 10 74 41 
+95837839-95838583 edil_rem: Parsed Data: TX:4
+95837839-95838583 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 74 81 
+95913074-95914893 edil_rem: Parsed Data: RX:Mainten.        
+95913074-95914893 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+96628230-96628974 edil_rem: Parsed Data: TX:4
+96628230-96628974 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 73 81 
+96703303-96704074 edil_rem: Parsed Data: RX:
+96703303-96704074 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 73 41 
+97417438-97418182 edil_rem: Parsed Data: TX:4
+97417438-97418182 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 72 81 
+97510659-97512478 edil_rem: Parsed Data: RX:Mainten.        
+97510659-97512478 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+98207658-98208402 edil_rem: Parsed Data: TX:4
+98207658-98208402 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 72 81 
+98300969-98301686 edil_rem: Parsed Data: RX:
+98300969-98301686 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 72 41 
+98996884-98997628 edil_rem: Parsed Data: TX:4
+98996884-98997628 edil_rem: Parsed Data Byte: TX:12 34 00 aa 13 72 81 
+99072012-99073831 edil_rem: Parsed Data: RX:Mainten.        
+99072012-99073831 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+99787266-99788010 edil_rem: Parsed Data: TX:4
+99787266-99788010 edil_rem: Parsed Data Byte: TX:12 34 00 aa 14 71 81 
+99862411-99863128 edil_rem: Parsed Data: RX:
+99862411-99863128 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 71 41 

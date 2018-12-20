@@ -1,0 +1,232 @@
+8526753-8527497 edil_rem: Parsed Data: TX:4
+8602131-8602848 edil_rem: Parsed Data: RX:
+9315209-9315952 edil_rem: Parsed Data: TX:4
+9408296-9410115 edil_rem: Parsed Data: RX:Set 26&CKg00 h00
+10105878-10106622 edil_rem: Parsed Data: TX:4
+10181059-10181776 edil_rem: Parsed Data: RX:
+10895598-10896341 edil_rem: Parsed Data: TX:4
+10970752-10972661 edil_rem: Parsed Data: RX:Set 26&CKg00 h00
+11686455-11687199 edil_rem: Parsed Data: TX:4
+11761816-11762586 edil_rem: Parsed Data: RX:
+12476444-12477188 edil_rem: Parsed Data: TX:4
+12551813-12553498 edil_rem: Parsed Data: RX:Set 26&CKg00 h00
+13267185-13268099 edil_rem: Parsed Data: TX:4
+13342456-13343227 edil_rem: Parsed Data: RX:
+14057022-14057909 edil_rem: Parsed Data: TX:4
+14132355-14134174 edil_rem: Parsed Data: RX:Set 26&CKg00 h00
+14848095-14848839 edil_rem: Parsed Data: TX:4
+14923213-14923930 edil_rem: Parsed Data: RX:
+15637716-15638460 edil_rem: Parsed Data: TX:4
+15712906-15714726 edil_rem: Parsed Data: RX:Set 26&CKg00 h00
+16428709-16429453 edil_rem: Parsed Data: TX:4
+16521984-16522755 edil_rem: Parsed Data: RX:
+17218635-17219379 edil_rem: Parsed Data: TX:4
+17293736-17295555 edil_rem: Parsed Data: RX:Set 26&CKg00 h00
+18009350-18010094 edil_rem: Parsed Data: TX:4
+18084531-18085302 edil_rem: Parsed Data: RX:
+18799330-18800074 edil_rem: Parsed Data: TX:4
+18892623-18894308 edil_rem: Parsed Data: RX:Set 26&CKg00 h00
+19589938-19590682 edil_rem: Parsed Data: TX:4
+19665146-19665915 edil_rem: Parsed Data: RX:
+20379721-20380465 edil_rem: Parsed Data: TX:4
+20473068-20474887 edil_rem: Parsed Data: RX:Set 26&CClima   
+21169271-21170015 edil_rem: Parsed Data: TX:4
+21244255-21244972 edil_rem: Parsed Data: RX:
+21957459-21958203 edil_rem: Parsed Data: TX:4
+22050609-22052293 edil_rem: Parsed Data: RX:Set 26&CClima   
+22746561-22747305 edil_rem: Parsed Data: TX:4
+22821491-22822262 edil_rem: Parsed Data: RX:
+23534641-23535385 edil_rem: Parsed Data: TX:4
+23609670-23611490 edil_rem: Parsed Data: RX:Set 26&CClima   
+24323941-24324685 edil_rem: Parsed Data: TX:4
+24398988-24399705 edil_rem: Parsed Data: RX:
+25112120-25112864 edil_rem: Parsed Data: TX:4
+25187095-25188915 edil_rem: Parsed Data: RX:Set 26&CClima   
+25901330-25902074 edil_rem: Parsed Data: TX:4
+25976377-25977148 edil_rem: Parsed Data: RX:
+26689608-26690352 edil_rem: Parsed Data: TX:4
+26782516-26784478 edil_rem: Parsed Data: RX:Set 26&CClima   
+27479616-27480359 edil_rem: Parsed Data: TX:4
+27554626-27555397 edil_rem: Parsed Data: RX:
+28267858-28268600 edil_rem: Parsed Data: TX:4
+28342895-28344715 edil_rem: Parsed Data: RX:Set 26&CClima   
+29057086-29057829 edil_rem: Parsed Data: TX:4
+29132052-29132823 edil_rem: Parsed Data: RX:
+29844978-29845722 edil_rem: Parsed Data: TX:4
+29920079-29921898 edil_rem: Parsed Data: RX:Set 26&CClima   
+30634179-30634923 edil_rem: Parsed Data: TX:4
+30709253-30709970 edil_rem: Parsed Data: RX:
+31422278-31423022 edil_rem: Parsed Data: TX:4
+31497522-31499207 edil_rem: Parsed Data: RX:Set 26&CClima   
+32211354-32212098 edil_rem: Parsed Data: TX:4
+32286437-32287154 edil_rem: Parsed Data: RX:
+32999354-33000098 edil_rem: Parsed Data: TX:4
+33074374-33076274 edil_rem: Parsed Data: RX:Set 26&CClima   
+33788439-33789183 edil_rem: Parsed Data: TX:4
+33863540-33864257 edil_rem: Parsed Data: RX:
+34576681-34577425 edil_rem: Parsed Data: TX:4
+34651665-34653485 edil_rem: Parsed Data: RX:Set 26&CClima   
+35365954-35366698 edil_rem: Parsed Data: TX:4
+35459095-35459866 edil_rem: Parsed Data: RX:
+36154224-36154967 edil_rem: Parsed Data: TX:4
+36229181-36231000 edil_rem: Parsed Data: RX:Set 26&CClima   
+36943425-36944169 edil_rem: Parsed Data: TX:4
+37018445-37019216 edil_rem: Parsed Data: RX:
+37731641-37732384 edil_rem: Parsed Data: TX:4
+37806687-37808372 edil_rem: Parsed Data: RX:Set 26&CClima   
+38520681-38521424 edil_rem: Parsed Data: TX:4
+38613696-38614413 edil_rem: Parsed Data: RX:
+39308780-39309524 edil_rem: Parsed Data: TX:4
+39383809-39385628 edil_rem: Parsed Data: RX:Set 26&CClima   
+40098080-40098824 edil_rem: Parsed Data: TX:4
+40191068-40191839 edil_rem: Parsed Data: RX:
+40886188-40886932 edil_rem: Parsed Data: TX:4
+40961217-40962900 edil_rem: Parsed Data: RX:Set 26&CClima   
+41675120-41676016 edil_rem: Parsed Data: TX:4
+41750319-41751090 edil_rem: Parsed Data: RX:
+42463407-42464151 edil_rem: Parsed Data: TX:4
+42556441-42558126 edil_rem: Parsed Data: RX:Set 26&CClima   
+43252304-43253048 edil_rem: Parsed Data: TX:4
+43327494-43328265 edil_rem: Parsed Data: RX:
+44040493-44041237 edil_rem: Parsed Data: TX:4
+44115441-44117261 edil_rem: Parsed Data: RX:Set.26&CKg00 h00
+44831164-44831908 edil_rem: Parsed Data: TX:4
+44906507-44907277 edil_rem: Parsed Data: RX:
+45622373-45623196 edil_rem: Parsed Data: TX:4
+45697671-45699356 edil_rem: Parsed Data: RX:Set.26&CKg00 h00
+46413295-46414039 edil_rem: Parsed Data: TX:4
+46488440-46489157 edil_rem: Parsed Data: RX:
+47203142-47203886 edil_rem: Parsed Data: TX:4
+47278314-47280133 edil_rem: Parsed Data: RX:Set.26&CKg00 h00
+47994037-47994781 edil_rem: Parsed Data: TX:4
+48069147-48069864 edil_rem: Parsed Data: RX:
+48783794-48784538 edil_rem: Parsed Data: TX:4
+48877105-48878923 edil_rem: Parsed Data: RX:Set.26&CKg00 h00
+49574752-49575496 edil_rem: Parsed Data: TX:4
+49668090-49668861 edil_rem: Parsed Data: RX:
+50364554-50365298 edil_rem: Parsed Data: TX:4
+50439664-50441348 edil_rem: Parsed Data: RX:Set.26&CKg00 h00
+51155243-51155987 edil_rem: Parsed Data: TX:4
+51230478-51231249 edil_rem: Parsed Data: RX:
+51945135-51945878 edil_rem: Parsed Data: TX:4
+52020226-52022243 edil_rem: Parsed Data: RX:Set.26&CKg00 h00
+52735842-52736584 edil_rem: Parsed Data: TX:4
+52811005-52811847 edil_rem: Parsed Data: RX:
+53525670-53526414 edil_rem: Parsed Data: TX:4
+53619017-53620837 edil_rem: Parsed Data: RX:Set.26&CKg00 h00
+54316763-54317507 edil_rem: Parsed Data: TX:4
+54392016-54392787 edil_rem: Parsed Data: RX:
+55106547-55107291 edil_rem: Parsed Data: TX:4
+55199760-55201579 edil_rem: Parsed Data: RX:Set.26&CKg00 h00
+55897514-55898258 edil_rem: Parsed Data: TX:4
+55990682-55991399 edil_rem: Parsed Data: RX:
+56687325-56688069 edil_rem: Parsed Data: TX:4
+56762461-56764146 edil_rem: Parsed Data: RX:Set.26&CKg00 h00
+57478023-57478767 edil_rem: Parsed Data: TX:4
+57553213-57553930 edil_rem: Parsed Data: RX:
+58267843-58268587 edil_rem: Parsed Data: TX:4
+58342971-58344790 edil_rem: Parsed Data: RX:Set.26&CKg00 h00
+59058712-59059456 edil_rem: Parsed Data: TX:4
+59133902-59134673 edil_rem: Parsed Data: RX:
+59848487-59849231 edil_rem: Parsed Data: TX:4
+59941798-59943617 edil_rem: Parsed Data: RX:Set.26&CKg00 h00
+60639400-60640144 edil_rem: Parsed Data: TX:4
+60714519-60715290 edil_rem: Parsed Data: RX:
+61429166-61429910 edil_rem: Parsed Data: TX:4
+61504357-61506176 edil_rem: Parsed Data: RX:Set.26&CKg00 h00
+62220044-62220788 edil_rem: Parsed Data: TX:4
+62295190-62295960 edil_rem: Parsed Data: RX:
+63009819-63010563 edil_rem: Parsed Data: TX:4
+63084992-63086927 edil_rem: Parsed Data: RX:Set.26&CKg00 h00
+63801718-63802462 edil_rem: Parsed Data: TX:4
+63877052-63877823 edil_rem: Parsed Data: RX:
+64591521-64592263 edil_rem: Parsed Data: TX:4
+64666747-64668432 edil_rem: Parsed Data: RX:Set.26&CKg00 h00
+65382174-65382981 edil_rem: Parsed Data: TX:4
+65457409-65458126 edil_rem: Parsed Data: RX:
+66172129-66172872 edil_rem: Parsed Data: TX:4
+66265323-66267143 edil_rem: Parsed Data: RX:Set.26&CKg00 h00
+66962934-66963678 edil_rem: Parsed Data: TX:4
+67038125-67038894 edil_rem: Parsed Data: RX:
+67752808-67753552 edil_rem: Parsed Data: TX:4
+67845994-67847822 edil_rem: Parsed Data: RX:Set 26&CClima   
+68542171-68542915 edil_rem: Parsed Data: TX:4
+68617129-68617846 edil_rem: Parsed Data: RX:
+69330208-69330952 edil_rem: Parsed Data: TX:4
+69405264-69406949 edil_rem: Parsed Data: RX:Set 26&CClima   
+70119302-70120046 edil_rem: Parsed Data: TX:4
+70212273-70212990 edil_rem: Parsed Data: RX:
+70907223-70907965 edil_rem: Parsed Data: TX:4
+70982476-70984295 edil_rem: Parsed Data: RX:Set 26&CClima   
+71696442-71697186 edil_rem: Parsed Data: TX:4
+71771624-71772341 edil_rem: Parsed Data: RX:
+72484667-72485411 edil_rem: Parsed Data: TX:4
+72559723-72561542 edil_rem: Parsed Data: RX:Set 26&CClima   
+73273681-73274425 edil_rem: Parsed Data: TX:4
+73348925-73349696 edil_rem: Parsed Data: RX:
+74061915-74062659 edil_rem: Parsed Data: TX:4
+74136854-74138665 edil_rem: Parsed Data: RX:Set 26&CClima   
+74850982-74851726 edil_rem: Parsed Data: TX:4
+74925993-74926764 edil_rem: Parsed Data: RX:
+75639180-75639924 edil_rem: Parsed Data: TX:4
+75714272-75716091 edil_rem: Parsed Data: RX:Set 26&CClima   
+76428445-76429189 edil_rem: Parsed Data: TX:4
+76503402-76504173 edil_rem: Parsed Data: RX:
+77216598-77217342 edil_rem: Parsed Data: TX:4
+77291627-77293312 edil_rem: Parsed Data: RX:Set 26&CClima   
+78005612-78006356 edil_rem: Parsed Data: TX:4
+78080578-78081349 edil_rem: Parsed Data: RX:
+78793837-78794581 edil_rem: Parsed Data: TX:4
+78868893-78870577 edil_rem: Parsed Data: RX:Set 26&CClima   
+79583012-79583755 edil_rem: Parsed Data: TX:4
+79658041-79658756 edil_rem: Parsed Data: RX:
+80371183-80371927 edil_rem: Parsed Data: TX:4
+80446113-80447798 edil_rem: Parsed Data: RX:Set 26&CClima   
+81160277-81161021 edil_rem: Parsed Data: TX:4
+81235315-81236086 edil_rem: Parsed Data: RX:
+81949873-81950617 edil_rem: Parsed Data: TX:4
+82024822-82026641 edil_rem: Parsed Data: RX:Set 26&CClima   
+82739066-82739810 edil_rem: Parsed Data: TX:4
+82814104-82814875 edil_rem: Parsed Data: RX:
+83527166-83528035 edil_rem: Parsed Data: TX:4
+83602347-83604032 edil_rem: Parsed Data: RX:Set 26&CClima   
+84316197-84316941 edil_rem: Parsed Data: TX:4
+84391298-84392069 edil_rem: Parsed Data: RX:
+85104207-85104951 edil_rem: Parsed Data: TX:4
+85179406-85181091 edil_rem: Parsed Data: RX:Set 26&CClima   
+85893346-85894090 edil_rem: Parsed Data: TX:4
+85968474-85969191 edil_rem: Parsed Data: RX:
+86681518-86682261 edil_rem: Parsed Data: TX:4
+86756547-86758473 edil_rem: Parsed Data: RX:Set 26&CClima   
+87470791-87471535 edil_rem: Parsed Data: TX:4
+87545748-87546698 edil_rem: Parsed Data: RX:
+88258891-88259635 edil_rem: Parsed Data: TX:4
+88333920-88335603 edil_rem: Parsed Data: RX:Set 26&CClima   
+89048066-89048810 edil_rem: Parsed Data: TX:4
+89123130-89123846 edil_rem: Parsed Data: RX:
+89836156-89836900 edil_rem: Parsed Data: TX:4
+89911158-89912978 edil_rem: Parsed Data: RX:Set 26&CClima   
+90625430-90626174 edil_rem: Parsed Data: TX:4
+90718571-90719342 edil_rem: Parsed Data: RX:
+91413780-91414524 edil_rem: Parsed Data: TX:4
+91488702-91490521 edil_rem: Parsed Data: RX:Set 26&CKg00 h00
+92204362-92205106 edil_rem: Parsed Data: TX:4
+92279553-92280270 edil_rem: Parsed Data: RX:
+92994138-92994882 edil_rem: Parsed Data: TX:4
+93069373-93071192 edil_rem: Parsed Data: RX:Set 26&CKg00 h00
+93785132-93785876 edil_rem: Parsed Data: TX:4
+93860268-93860985 edil_rem: Parsed Data: RX:
+94574836-94575579 edil_rem: Parsed Data: TX:4
+94668165-94669850 edil_rem: Parsed Data: RX:Set 26&CKg00 h00
+95365651-95366394 edil_rem: Parsed Data: TX:4
+95458944-95459715 edil_rem: Parsed Data: RX:
+96155417-96156161 edil_rem: Parsed Data: TX:4
+96230706-96232525 edil_rem: Parsed Data: RX:Set 26&CKg00 h00
+96946268-96947012 edil_rem: Parsed Data: TX:4
+97021583-97022354 edil_rem: Parsed Data: RX:
+97736169-97736912 edil_rem: Parsed Data: TX:4
+97811457-97813277 edil_rem: Parsed Data: RX:Set 26&CKg00 h00
+98527181-98527925 edil_rem: Parsed Data: TX:4
+98602389-98603160 edil_rem: Parsed Data: RX:
+99316974-99317718 edil_rem: Parsed Data: TX:4
+99392173-99393992 edil_rem: Parsed Data: RX:Set 26&CKg00 h00

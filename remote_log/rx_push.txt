@@ -1,0 +1,158 @@
+266102-266873 edil_rem: Parsed Data Byte: RX:00 ff 01 80 13 b4 41 
+1055388-1057207 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+1845884-1846601 edil_rem: Parsed Data Byte: RX:00 ff 01 80 14 b3 41 
+2653193-2655146 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+3425523-3426240 edil_rem: Parsed Data Byte: RX:00 ff 01 80 14 b2 41 
+4214809-4216627 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+5005063-5005780 edil_rem: Parsed Data Byte: RX:00 ff 01 80 13 b0 41 
+5812229-5814039 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+6584595-6585312 edil_rem: Parsed Data Byte: RX:00 ff 01 80 14 af 41 
+7373756-7375575 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+8163992-8164763 edil_rem: Parsed Data Byte: RX:00 ff 01 80 14 ae 41 
+8953269-8955089 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+9743613-9744384 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 ad 41 
+10550975-10552795 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+11341337-11342108 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 ac 41 
+12112655-12114474 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+12902918-12903635 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 ab 41 
+13711661-13713480 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+14483938-14484771 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 aa 41 
+15273018-15274891 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+16063416-16064133 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 a9 41 
+16852604-16854423 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+17635349-17636120 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 c8 41 
+18395179-18397088 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+19156120-19156890 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 c8 41 
+19932950-19934769 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+20688002-20688719 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 c7 41 
+21477109-21478928 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 30 26 43 20 20 30 33 3a 31 30 20 
+22272758-22273529 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 c6 41 
+23085399-23087084 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 30 26 43 20 20 30 33 3a 31 30 20 
+23862398-23863169 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 c5 41 
+24675030-24676715 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 30 26 43 20 20 30 33 3a 31 30 20 
+25452012-25452917 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 c3 41 
+26246443-26248262 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 30 26 43 20 20 30 33 3a 31 30 20 
+27041841-27042612 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 c2 41 
+27836317-27838136 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 30 26 43 20 20 30 33 3a 31 30 20 
+28631160-28631877 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 c1 41 
+29422077-29424102 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 30 26 43 20 20 30 33 3a 31 30 20 
+30188062-30188833 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 c8 41 
+30934753-30936573 edil_rem: Parsed Data Byte: RX:20 20 32 35 2e 30 26 43 20 20 30 33 3a 31 30 20 
+31720348-31721065 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 c7 41 
+32514680-32516365 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 33 3a 31 30 20 
+33309022-33309739 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 c6 41 
+34102682-34104501 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 33 3a 31 30 20 
+34897104-34897875 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 c4 41 
+35708724-35710544 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 33 3a 31 30 20 
+36485241-36486012 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 c3 41 
+37296897-37298716 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 33 3a 31 30 20 
+38073441-38074212 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 c2 41 
+38885243-38887062 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 33 3a 31 30 20 
+39661619-39662444 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0f c1 41 
+40455138-40456823 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 33 3a 31 30 20 
+41249578-41250295 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0f c0 41 
+42043229-42044914 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 33 3a 31 30 20 
+42837668-42838385 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0f bf 41 
+43631167-43632986 edil_rem: Parsed Data Byte: RX:20 20 4b 67 20 30 30 20 20 20 30 33 3a 31 30 20 
+44425840-44426611 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0f be 41 
+45219339-45221022 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+46009567-46010337 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0f bd 41 
+46816983-46818803 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+47589180-47589951 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0e bc 41 
+48378449-48380269 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+49168812-49169529 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0f bb 41 
+49977323-49979008 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+50749360-50750077 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0d ba 41 
+51526974-51528900 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+52305358-52306129 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0f c8 41 
+53065182-53067001 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+53831042-53831813 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0e c8 41 
+54602253-54604072 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+55392642-55393359 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0e c6 41 
+56181633-56183452 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+56971977-56972748 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0e c5 41 
+57779277-57781096 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+58569452-58570169 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0d c4 41 
+59340681-59342366 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+60141253-60142024 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0d c8 41 
+60901048-60902867 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+61644586-61645356 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0f c8 41 
+62426712-62428397 edil_rem: Parsed Data Byte: RX:4d 61 69 6e 74 65 6e 2e 20 20 20 20 20 20 20 20 
+63198810-63199527 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0e c7 41 
+63987980-63989799 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 32 20 26 43 20 20 20 
+64795791-64796508 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0f c6 41 
+65566339-65568158 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 32 20 26 43 20 20 20 
+66356091-66356862 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0e c5 41 
+67160533-67162361 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 32 20 26 43 20 20 20 
+67903460-67904231 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0e c7 41 
+68663684-68665503 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 32 20 26 43 20 20 20 
+69424006-69424777 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0e c8 41 
+70199492-70201177 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 32 20 26 43 20 20 20 
+70967387-70968104 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0e c7 41 
+71773872-71775691 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 32 20 26 43 20 20 20 
+72545539-72546310 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0f fa 41 
+73334208-73335893 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 32 20 26 43 20 20 20 
+74123629-74124346 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0f fa 41 
+74912262-74914081 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 32 20 26 43 20 20 20 
+75701853-75702570 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0f fa 41 
+76508374-76510193 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 32 20 26 43 20 20 20 
+77280194-77280911 edil_rem: Parsed Data Byte: RX:00 ff 01 80 10 fa 41 
+78068271-78070072 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 32 20 26 43 20 20 20 
+78858238-78859125 edil_rem: Parsed Data Byte: RX:00 ff 01 80 10 fa 41 
+79617538-79619357 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 32 20 26 43 20 20 20 
+80360294-80361011 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 fa 41 
+81146014-81147699 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 32 20 26 43 20 20 20 
+81917593-81918363 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0f fa 41 
+82706297-82707982 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+83495799-83496570 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0f fa 41 
+84302525-84304345 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+85074122-85074892 edil_rem: Parsed Data Byte: RX:00 ff 01 80 10 fa 41 
+85880848-85882666 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+86672008-86672779 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0d fa 41 
+87442663-87444348 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+88232156-88232927 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 fa 41 
+89038883-89040568 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+89810246-89811017 edil_rem: Parsed Data Byte: RX:00 ff 01 80 10 fa 41 
+90598951-90600635 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+91388605-91389376 edil_rem: Parsed Data Byte: RX:00 ff 01 80 10 fa 41 
+92177184-92178869 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+92966829-92967546 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 fa 41 
+93773439-93775411 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+94545080-94545851 edil_rem: Parsed Data Byte: RX:00 ff 01 80 10 fa 41 
+95333722-95335541 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+96123242-96123959 edil_rem: Parsed Data Byte: RX:00 ff 01 80 0f fa 41 
+96911731-96913416 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+97701224-97701941 edil_rem: Parsed Data Byte: RX:00 ff 01 80 10 fa 41 
+98489919-98491738 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+99279555-99280326 edil_rem: Parsed Data Byte: RX:00 ff 01 80 10 fa 41 
+100068080-100069900 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+100857600-100858371 edil_rem: Parsed Data Byte: RX:00 ff 01 80 10 fa 41 
+101664076-101665759 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+102435609-102436326 edil_rem: Parsed Data Byte: RX:00 ff 01 80 10 fa 41 
+103224062-103225882 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+104031479-104032250 edil_rem: Parsed Data Byte: RX:00 ff 01 80 10 fa 41 
+104802949-104804634 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+105592460-105593231 edil_rem: Parsed Data Byte: RX:00 ff 01 80 10 fa 41 
+106398981-106400800 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+107170828-107171598 edil_rem: Parsed Data Byte: RX:00 ff 01 80 10 fa 41 
+107959362-107961289 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+108748998-108749903 edil_rem: Parsed Data Byte: RX:00 ff 01 80 10 fa 41 
+109537550-109539486 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+110327159-110327930 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 fa 41 
+111133814-111135633 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+111905294-111906065 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 fa 41 
+112694007-112695826 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+113483598-113484369 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 fa 41 
+114290271-114292090 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+115061849-115062620 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 fa 41 
+115850374-115852059 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+116658042-116658813 edil_rem: Parsed Data Byte: RX:00 ff 01 80 10 fa 41 
+117428455-117430140 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+118217831-118218602 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 fa 41 
+119024424-119026108 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+119795849-119796566 edil_rem: Parsed Data Byte: RX:00 ff 01 80 11 fa 41 
+120584365-120586050 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+121373831-121374602 edil_rem: Parsed Data Byte: RX:00 ff 01 80 10 fa 41 
+122162527-122164346 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 
+122953471-122954242 edil_rem: Parsed Data Byte: RX:00 ff 01 80 12 fa 41 
+123760082-123761892 edil_rem: Parsed Data Byte: RX:41 75 74 6f 20 73 65 74 32 31 20 26 43 20 20 20 

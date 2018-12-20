@@ -1,0 +1,158 @@
+266102-266873 edil_rem: Parsed Data: RX:
+1055388-1057207 edil_rem: Parsed Data: RX:Mainten.        
+1845884-1846601 edil_rem: Parsed Data: RX:
+2653193-2655146 edil_rem: Parsed Data: RX:Mainten.        
+3425523-3426240 edil_rem: Parsed Data: RX:
+4214809-4216627 edil_rem: Parsed Data: RX:Mainten.        
+5005063-5005780 edil_rem: Parsed Data: RX:
+5812229-5814039 edil_rem: Parsed Data: RX:Mainten.        
+6584595-6585312 edil_rem: Parsed Data: RX:
+7373756-7375575 edil_rem: Parsed Data: RX:Mainten.        
+8163992-8164763 edil_rem: Parsed Data: RX:
+8953269-8955089 edil_rem: Parsed Data: RX:Mainten.        
+9743613-9744384 edil_rem: Parsed Data: RX:
+10550975-10552795 edil_rem: Parsed Data: RX:Mainten.        
+11341337-11342108 edil_rem: Parsed Data: RX:
+12112655-12114474 edil_rem: Parsed Data: RX:Mainten.        
+12902918-12903635 edil_rem: Parsed Data: RX:
+13711661-13713480 edil_rem: Parsed Data: RX:Mainten.        
+14483938-14484771 edil_rem: Parsed Data: RX:
+15273018-15274891 edil_rem: Parsed Data: RX:Mainten.        
+16063416-16064133 edil_rem: Parsed Data: RX:
+16852604-16854423 edil_rem: Parsed Data: RX:Mainten.        
+17635349-17636120 edil_rem: Parsed Data: RX:
+18395179-18397088 edil_rem: Parsed Data: RX:Mainten.        
+19156120-19156890 edil_rem: Parsed Data: RX:
+19932950-19934769 edil_rem: Parsed Data: RX:Mainten.        
+20688002-20688719 edil_rem: Parsed Data: RX:
+21477109-21478928 edil_rem: Parsed Data: RX:  25.0&C  03:10 
+22272758-22273529 edil_rem: Parsed Data: RX:
+23085399-23087084 edil_rem: Parsed Data: RX:  25.0&C  03:10 
+23862398-23863169 edil_rem: Parsed Data: RX:
+24675030-24676715 edil_rem: Parsed Data: RX:  25.0&C  03:10 
+25452012-25452917 edil_rem: Parsed Data: RX:
+26246443-26248262 edil_rem: Parsed Data: RX:  25.0&C  03:10 
+27041841-27042612 edil_rem: Parsed Data: RX:
+27836317-27838136 edil_rem: Parsed Data: RX:  25.0&C  03:10 
+28631160-28631877 edil_rem: Parsed Data: RX:
+29422077-29424102 edil_rem: Parsed Data: RX:  25.0&C  03:10 
+30188062-30188833 edil_rem: Parsed Data: RX:
+30934753-30936573 edil_rem: Parsed Data: RX:  25.0&C  03:10 
+31720348-31721065 edil_rem: Parsed Data: RX:
+32514680-32516365 edil_rem: Parsed Data: RX:  Kg 00   03:10 
+33309022-33309739 edil_rem: Parsed Data: RX:
+34102682-34104501 edil_rem: Parsed Data: RX:  Kg 00   03:10 
+34897104-34897875 edil_rem: Parsed Data: RX:
+35708724-35710544 edil_rem: Parsed Data: RX:  Kg 00   03:10 
+36485241-36486012 edil_rem: Parsed Data: RX:
+37296897-37298716 edil_rem: Parsed Data: RX:  Kg 00   03:10 
+38073441-38074212 edil_rem: Parsed Data: RX:
+38885243-38887062 edil_rem: Parsed Data: RX:  Kg 00   03:10 
+39661619-39662444 edil_rem: Parsed Data: RX:
+40455138-40456823 edil_rem: Parsed Data: RX:  Kg 00   03:10 
+41249578-41250295 edil_rem: Parsed Data: RX:
+42043229-42044914 edil_rem: Parsed Data: RX:  Kg 00   03:10 
+42837668-42838385 edil_rem: Parsed Data: RX:
+43631167-43632986 edil_rem: Parsed Data: RX:  Kg 00   03:10 
+44425840-44426611 edil_rem: Parsed Data: RX:
+45219339-45221022 edil_rem: Parsed Data: RX:Mainten.        
+46009567-46010337 edil_rem: Parsed Data: RX:
+46816983-46818803 edil_rem: Parsed Data: RX:Mainten.        
+47589180-47589951 edil_rem: Parsed Data: RX:
+48378449-48380269 edil_rem: Parsed Data: RX:Mainten.        
+49168812-49169529 edil_rem: Parsed Data: RX:
+49977323-49979008 edil_rem: Parsed Data: RX:Mainten.        
+50749360-50750077 edil_rem: Parsed Data: RX:
+51526974-51528900 edil_rem: Parsed Data: RX:Mainten.        
+52305358-52306129 edil_rem: Parsed Data: RX:
+53065182-53067001 edil_rem: Parsed Data: RX:Mainten.        
+53831042-53831813 edil_rem: Parsed Data: RX:
+54602253-54604072 edil_rem: Parsed Data: RX:Mainten.        
+55392642-55393359 edil_rem: Parsed Data: RX:
+56181633-56183452 edil_rem: Parsed Data: RX:Mainten.        
+56971977-56972748 edil_rem: Parsed Data: RX:
+57779277-57781096 edil_rem: Parsed Data: RX:Mainten.        
+58569452-58570169 edil_rem: Parsed Data: RX:
+59340681-59342366 edil_rem: Parsed Data: RX:Mainten.        
+60141253-60142024 edil_rem: Parsed Data: RX:
+60901048-60902867 edil_rem: Parsed Data: RX:Mainten.        
+61644586-61645356 edil_rem: Parsed Data: RX:
+62426712-62428397 edil_rem: Parsed Data: RX:Mainten.        
+63198810-63199527 edil_rem: Parsed Data: RX:
+63987980-63989799 edil_rem: Parsed Data: RX:Auto set22 &C   
+64795791-64796508 edil_rem: Parsed Data: RX:
+65566339-65568158 edil_rem: Parsed Data: RX:Auto set22 &C   
+66356091-66356862 edil_rem: Parsed Data: RX:
+67160533-67162361 edil_rem: Parsed Data: RX:Auto set22 &C   
+67903460-67904231 edil_rem: Parsed Data: RX:
+68663684-68665503 edil_rem: Parsed Data: RX:Auto set22 &C   
+69424006-69424777 edil_rem: Parsed Data: RX:
+70199492-70201177 edil_rem: Parsed Data: RX:Auto set22 &C   
+70967387-70968104 edil_rem: Parsed Data: RX:
+71773872-71775691 edil_rem: Parsed Data: RX:Auto set22 &C   
+72545539-72546310 edil_rem: Parsed Data: RX:
+73334208-73335893 edil_rem: Parsed Data: RX:Auto set22 &C   
+74123629-74124346 edil_rem: Parsed Data: RX:
+74912262-74914081 edil_rem: Parsed Data: RX:Auto set22 &C   
+75701853-75702570 edil_rem: Parsed Data: RX:
+76508374-76510193 edil_rem: Parsed Data: RX:Auto set22 &C   
+77280194-77280911 edil_rem: Parsed Data: RX:
+78068271-78070072 edil_rem: Parsed Data: RX:Auto set22 &C   
+78858238-78859125 edil_rem: Parsed Data: RX:
+79617538-79619357 edil_rem: Parsed Data: RX:Auto set22 &C   
+80360294-80361011 edil_rem: Parsed Data: RX:
+81146014-81147699 edil_rem: Parsed Data: RX:Auto set22 &C   
+81917593-81918363 edil_rem: Parsed Data: RX:
+82706297-82707982 edil_rem: Parsed Data: RX:Auto set21 &C   
+83495799-83496570 edil_rem: Parsed Data: RX:
+84302525-84304345 edil_rem: Parsed Data: RX:Auto set21 &C   
+85074122-85074892 edil_rem: Parsed Data: RX:
+85880848-85882666 edil_rem: Parsed Data: RX:Auto set21 &C   
+86672008-86672779 edil_rem: Parsed Data: RX:
+87442663-87444348 edil_rem: Parsed Data: RX:Auto set21 &C   
+88232156-88232927 edil_rem: Parsed Data: RX:
+89038883-89040568 edil_rem: Parsed Data: RX:Auto set21 &C   
+89810246-89811017 edil_rem: Parsed Data: RX:
+90598951-90600635 edil_rem: Parsed Data: RX:Auto set21 &C   
+91388605-91389376 edil_rem: Parsed Data: RX:
+92177184-92178869 edil_rem: Parsed Data: RX:Auto set21 &C   
+92966829-92967546 edil_rem: Parsed Data: RX:
+93773439-93775411 edil_rem: Parsed Data: RX:Auto set21 &C   
+94545080-94545851 edil_rem: Parsed Data: RX:
+95333722-95335541 edil_rem: Parsed Data: RX:Auto set21 &C   
+96123242-96123959 edil_rem: Parsed Data: RX:
+96911731-96913416 edil_rem: Parsed Data: RX:Auto set21 &C   
+97701224-97701941 edil_rem: Parsed Data: RX:
+98489919-98491738 edil_rem: Parsed Data: RX:Auto set21 &C   
+99279555-99280326 edil_rem: Parsed Data: RX:
+100068080-100069900 edil_rem: Parsed Data: RX:Auto set21 &C   
+100857600-100858371 edil_rem: Parsed Data: RX:
+101664076-101665759 edil_rem: Parsed Data: RX:Auto set21 &C   
+102435609-102436326 edil_rem: Parsed Data: RX:
+103224062-103225882 edil_rem: Parsed Data: RX:Auto set21 &C   
+104031479-104032250 edil_rem: Parsed Data: RX:
+104802949-104804634 edil_rem: Parsed Data: RX:Auto set21 &C   
+105592460-105593231 edil_rem: Parsed Data: RX:
+106398981-106400800 edil_rem: Parsed Data: RX:Auto set21 &C   
+107170828-107171598 edil_rem: Parsed Data: RX:
+107959362-107961289 edil_rem: Parsed Data: RX:Auto set21 &C   
+108748998-108749903 edil_rem: Parsed Data: RX:
+109537550-109539486 edil_rem: Parsed Data: RX:Auto set21 &C   
+110327159-110327930 edil_rem: Parsed Data: RX:
+111133814-111135633 edil_rem: Parsed Data: RX:Auto set21 &C   
+111905294-111906065 edil_rem: Parsed Data: RX:
+112694007-112695826 edil_rem: Parsed Data: RX:Auto set21 &C   
+113483598-113484369 edil_rem: Parsed Data: RX:
+114290271-114292090 edil_rem: Parsed Data: RX:Auto set21 &C   
+115061849-115062620 edil_rem: Parsed Data: RX:
+115850374-115852059 edil_rem: Parsed Data: RX:Auto set21 &C   
+116658042-116658813 edil_rem: Parsed Data: RX:
+117428455-117430140 edil_rem: Parsed Data: RX:Auto set21 &C   
+118217831-118218602 edil_rem: Parsed Data: RX:
+119024424-119026108 edil_rem: Parsed Data: RX:Auto set21 &C   
+119795849-119796566 edil_rem: Parsed Data: RX:
+120584365-120586050 edil_rem: Parsed Data: RX:Auto set21 &C   
+121373831-121374602 edil_rem: Parsed Data: RX:
+122162527-122164346 edil_rem: Parsed Data: RX:Auto set21 &C   
+122953471-122954242 edil_rem: Parsed Data: RX:
+123760082-123761892 edil_rem: Parsed Data: RX:Auto set21 &C   
